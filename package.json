@@ -1,0 +1,19 @@
+{
+  "name": "alienblaster",
+  "version": "1.0.0",
+  "description": "Mouch Click Game to Destroy Aliens",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerChugg/Alien-Blaster.git"
+  },
+  "author": "Don Chugg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpencerChugg/Alien-Blaster/issues"
+  },
+  "homepage": "https://github.com/SpencerChugg/Alien-Blaster#readme"
+}
